@@ -55,7 +55,8 @@ public class AddressbookUI extends UI {
      * visible user interface. Executed on every browser reload because a new
      * instance is created for each web page loaded.
      */
-    int i=0;
+ 
+    
     @Override
     protected void init(VaadinRequest request) {
         configureComponents();
